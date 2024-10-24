@@ -31,3 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+##Other
+
+/src/main/resources/secrets.properties
+/src/test/resources/test-secrets.properties
